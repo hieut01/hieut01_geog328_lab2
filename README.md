@@ -1,4 +1,4 @@
-# hieut01_geog328_lab2_basketball_analytics# Modern Basketball Analytics Website
+# Modern Basketball Analytics Website
 
 A student project exploring how analytics have reshaped the game of basketball.
 
@@ -14,3 +14,4 @@ A student project exploring how analytics have reshaped the game of basketball.
 - Responsive navigation menu
 - YouTube embed and custom table
 - Published via GitHub Pages
+
